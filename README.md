@@ -11,7 +11,7 @@ Why I write it here? Well, it is an expreiment which I used to track the learnin
 ### Plan
 
 * Material
-    A on-line turial at [here](https://www.codecademy.com/learn/learn-java)
+    A on-line turial at [here](http://www.learnjavaonline.org/cn/)
 * Schedule
     * Sep 9:
     * Sep 10:
