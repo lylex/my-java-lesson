@@ -1,4 +1,5 @@
 ## My Java Lesson
+---------------
 
 ### About this project
 
@@ -8,31 +9,42 @@ I have no knowledge about Java and I have no intrest in it. But I have to write 
 
 Why I write it here? Well, it is an expreiment which I used to track the learning in a new way rather than use my notebook. I believe if I log the learning process here I will feel supervised by others, so that I will become less lazy.
 
+--------------
+
 ### Plan
 
 * Material
     A on-line turial at [here](http://www.learnjavaonline.org/cn/)
 * Schedule
-    * Sep 9:
+    * Sep 6:
         * Hello, World!
         * Parameter, type
-    * Sep 10:
+    * Sep 7:
         * Condition
         * Array
         * Loop
-    * Sep 11:
+    * Sep 8:
         * Method
         * Object
         * Compile and running
-    * Sep 12:
+    * Sep 9:
         * Inheritance
         * Exeception
-    * Sep 13:
+    * Sep 10:
         * Abstract class
         * Interface
         * Generic
-    * Set 14:
+    * Set 11:
         * Stream
-    * Set 15:
+    * Set 12:
         * Maven related
 
+--------------
+
+### Execution
+    * Sep 6:
+        * (none)
+    * Sep 7:
+        * Hello, World!
+        * Parameter, type
+        * Condition
