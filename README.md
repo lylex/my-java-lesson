@@ -14,9 +14,25 @@ Why I write it here? Well, it is an expreiment which I used to track the learnin
     A on-line turial at [here](http://www.learnjavaonline.org/cn/)
 * Schedule
     * Sep 9:
+        * Hello, World!
+        * Parameter, type
     * Sep 10:
+        * Condition
+        * Array
+        * Loop
     * Sep 11:
+        * Method
+        * Object
+        * Compile and running
     * Sep 12:
+        * Inheritance
+        * Exeception
     * Sep 13:
+        * Abstract class
+        * Interface
+        * Generic
     * Set 14:
+        * Stream
     * Set 15:
+        * Maven related
+
