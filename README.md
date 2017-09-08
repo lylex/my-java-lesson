@@ -42,11 +42,13 @@ Why I write it here? Well, it is an expreiment which I used to track the learnin
 
 ### Execution
 
-    * Sep 6:
-        * (none)
-    * Sep 7:
-        * Hello, World!
-        * Parameter, type
-        * Condition
-    * Sep 8:
-        * Array
+* Sep 6:
+    * (none)
+* Sep 7:
+    * Hello, World!
+    * Parameter, type
+    * Condition
+* Sep 8:
+    * Array
+    * Loop
+    * Functions
