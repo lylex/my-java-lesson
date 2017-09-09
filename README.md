@@ -52,3 +52,6 @@ Why I write it here? Well, it is an expreiment which I used to track the learnin
     * Array
     * Loop
     * Functions
+* Sep 9:
+    * Object
+    * Compile and running
