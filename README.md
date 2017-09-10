@@ -55,3 +55,8 @@ Why I write it here? Well, it is an expreiment which I used to track the learnin
 * Sep 9:
     * Object
     * Compile and running
+* Sep 10:
+    * Inheritance
+    * Exeception
+    * Abstract class
+    * Interface
