@@ -13,7 +13,9 @@ Why I write it here? Well, it is an expreiment which I used to track the learnin
 ### Plan
 
 * Material
-    A on-line turial at [here](http://www.learnjavaonline.org/cn/) or the [English verson](https://www.learnjavaonline.org/en/)
+    * A on-line turial at [here](http://www.learnjavaonline.org/cn/) or the [English verson](https://www.learnjavaonline.org/en/)
+    * Maven related, [Maven getting start](http://www.oracle.com/technetwork/cn/community/java/apache-maven-getting-started-1-406235-zhs.html)
+
 * Schedule
     * Sep 6:
         * Hello, World!
